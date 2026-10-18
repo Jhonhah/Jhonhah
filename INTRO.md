@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jonah Kisakye
-- 👀 I’m interested in programing with Python, java and C
+- 👀 I’m interested in programming with Python, Java, and Rust
 - 🌱 I’m currently studying Computer Science at the University of Victoria
-- 💞️ I’m looking to collaborate on a largescale software project
-- 📫 How to reach me email: kisakyejonah222@gmail.com
+- 💞️ I’m looking to collaborate on a large-scale software project
+- 📫 How to reach me: email: jonahkisakye@uvic.ca
 
 <!---
 Jhonhah/Jhonhah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
